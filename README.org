@@ -3,7 +3,7 @@
 Parenscript macros for jQuery
 
 |---------+----------------------------------------------------------------------------|
-| source  | file:https://github.com/Junker/paren-jquery/archive/refs/tags/0.2.0.tar.gz |
-| version | 0.2.0                                                                      |
+| source  | file:https://github.com/Junker/paren-jquery/archive/refs/tags/0.2.3.tar.gz |
+| version | 0.2.3                                                                      |
 | systems | paren-jquery                                                               |
 |---------+----------------------------------------------------------------------------|
